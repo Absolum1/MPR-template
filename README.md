@@ -20,7 +20,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 - 🎉 Open source
 
 
-## Why did we make this? (Explanation)
+## Why did we make this?
 We made this to streamline our Merge and Pull requests with one clear and consistent template.
 
 
